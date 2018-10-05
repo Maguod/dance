@@ -1,0 +1,17 @@
+
+@font-face {
+  font-family: 'Circe-ExtraBold';
+  src: url('/wp-content/themes/danceeffects/fonts/Circe-ExtraBold/Circe-ExtraBold.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Circe-ExtraBold';
+  src:  url('/wp-content/themes/danceeffects/fonts/Circe-ExtraBold/Circe-ExtraBold.otf')  format('opentype'),
+	    url('/wp-content/themes/danceeffects/fonts/Circe-ExtraBold/Circe-ExtraBold.ttf')  format('truetype'), url('/wp-content/themes/danceeffects/fonts/Circe-ExtraBold/Circe-ExtraBold.svg#Circe-ExtraBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+

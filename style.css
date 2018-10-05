@@ -1,0 +1,50 @@
+/*   
+Theme Name: Dance
+Description: Сайт Dance
+Author: MaxGurtovoy
+Version: 1.0
+*/
+@font-face {
+  font-family: 'Circe-Regular';
+  src:  url('fonts/Circe-Regular/Circe-Regular.otf')  format('opentype'),
+         url('fonts/Circe-Regular/Circe-Regular.ttf')  format('truetype'),
+          url('fonts/Circe-Regular/Circe-Regular.svg#Circe-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Circe-Bold';
+  src:  url('fonts/Circe-Bold/Circe-Bold.otf')  format('opentype'),
+     url('fonts/Circe-Bold/Circe-Bold.ttf')  format('truetype'), 
+     url('fonts/Circe-Bold/Circe-Bold.svg#Circe-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Circe-ExtraBold';
+  src:  url('fonts/Circe-ExtraBold/Circe-ExtraBold.otf')  format('opentype'),
+      url('fonts/Circe-ExtraBold/Circe-ExtraBold.ttf')  format('truetype'),
+       url('fonts/Circe-ExtraBold/Circe-ExtraBold.svg#Circe-ExtraBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Arial-BoldMT';
+  src:  url('fonts/Arial-BoldMT/Arial-BoldMT.otf')  format('opentype'),
+      url('fonts/Arial-BoldMT/Arial-BoldMT.ttf')  format('truetype'), 
+      url('fonts/Arial-BoldMT/Arial-BoldMT.svg#Arial-BoldMT') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ArialMT';
+  src:  url('fonts/ArialMT/ArialMT.otf')  format('opentype'),
+      url('fonts/ArialMT/ArialMT.ttf')  format('truetype'), 
+      url('fonts/ArialMT/ArialMT.svg#ArialMT') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
